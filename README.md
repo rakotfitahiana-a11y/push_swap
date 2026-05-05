@@ -1,4 +1,4 @@
-*This project has been created as part of the 42 curriculum by henirako, nfitahin.*
+PUSH_SWAP
 
 ## Description
 
@@ -21,14 +21,6 @@ It is part of the curriculum at **42**.
 ## Instructions
 
 ### Installation and Setup
-
-Clone the repository:
-```bash
-git clone git@vogsphere.42antananarivo.mg:vogsphere/intra-uuid-86a60c73-67de-4cc9-8f47-7239e456ce11-7339733-henirako Push_Swap
-```
-```bash
-cd Push_Swap
-```
 
 Makefile Commands:
 
